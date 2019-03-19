@@ -29,10 +29,10 @@ include('title.php');
 </nav>
     </header>
 <h1 class="c1">Insert student information.</h1>
-    
+    <h2 style="border-style:solid;border-color:black;background-color:red;border-radius:5px;">Student Personal Information :</h2>
        <form action='addstudent.php' method='post' enctype="multipart/form-data">
 
-    <table class="addstudent1" border="1" align="center" width="40%" height="60%">
+    <table class="admindash2" border="1" align="center" width="80%" height="40%">
     
           <tr>
            <td>Roll number</td>
@@ -63,6 +63,7 @@ include('title.php');
         
         </table>
         </form>
+        <h2 style="border-style:solid;border-color:black;background-color:red;border-radius:5px;">Result information:</h2>
     </body>
     </html>
 

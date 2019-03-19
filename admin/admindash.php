@@ -28,7 +28,7 @@ include("header.php");
 
  <h1 class="c1">Welcome at AdminDashboard.</h1>
     
-<table class="admindash2" border="2"height="50%" width="60%" align="center" margin-top="0px;">
+<table class="admindash2" border="2"height="30%" width="80%" align="center" margin-top="0px;">
     <tr><th colspan="3">select an Option.</th></tr>
     <tr>
       <td>1.</td>
@@ -47,6 +47,7 @@ include("header.php");
          <td class="c4">Update Students Information.</td>
       <td><a class="c3" href="updatestudent.php">Click here</a></td>
     </tr>
+    
     </table>
     </body>
 </html>

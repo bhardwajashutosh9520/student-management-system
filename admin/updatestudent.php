@@ -26,7 +26,7 @@ include("header.php");
 <h1 class="c1">Update student information.</h1>
 
 <form action="updatestudent.php" method="post">
-  <table align="center" border="2">
+  <table class="admindash2" align="center" border="2">
     <tr>
       <td>Roll number</td><td><input type="number" name="rollno" placeholder="enter roll number"/></td>
       </tr>

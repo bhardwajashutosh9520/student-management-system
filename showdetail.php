@@ -43,7 +43,7 @@
         <table class="admindash2" border="1" align="center" width="60%" height="10%">
             <tr>
             <th>Session : 2016-17(REGULAR) Semesters :  1,2 Result :  CP(0),PASS  Marks :  1462/1800</th>
-                <td><a href="show marks.php">click</a></td>
+                <td><a href="show marks.php?rollno=<?php echo $data['rollno'];?>">click</a></td>
             </tr>
         </table>
         <table class="admindash2" border="1" align="center" width="60%" height="10%">
@@ -54,7 +54,7 @@
             <table class="admindash2" border="1" align="center" width="60%" height="10%">
             <tr>
             <th>Session : 2018-19(REGULAR) Semesters :  1,2 Result :  CP(0),PASS  Marks :  1462/1800</th>
-                <td><a href="show marks.php">click</a></td>
+                <td><a href="show marks.php?rollno=<?php echo $data['rollno'];?>">click</a></td>
             </tr>
         </table>
 

@@ -26,7 +26,7 @@ include("header.php");
 
 
 <form action="delstudent.php" method="post">
-  <table align="center" border="2">
+  <table class="admindash2" align="center" border="2">
     <tr>
       <td>Roll number</td><td><input type="number" name="rollno" placeholder="enter roll number"/></td>
       </tr>
