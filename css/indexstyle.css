@@ -1,0 +1,48 @@
+body
+{
+    margin:0px;
+    background-color: yellowgreen;
+
+}
+a
+{
+    margin-left: 85%;
+    
+    text-decoration: none;
+   font-size:25px;
+    color:darkblue;
+    background-color: red;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width:thin;  
+}
+
+a:hover
+{
+    
+    font-size:25px;
+    color:antiquewhite;
+    background-color: blueviolet;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 10px;
+    border-width:thin;
+}
+h1
+{
+   font-size:25px;
+    color:antiquewhite;
+    background-color: blueviolet;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 10px;
+    border-width:thin;
+   
+}
+.admindash2
+{
+    color:red;
+    background-color: mistyrose;
+    text-decoration: none;
+}

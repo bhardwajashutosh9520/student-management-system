@@ -1,0 +1,111 @@
+body
+{
+    margin:0px;
+    background-color: yellowgreen;
+}
+.c1
+{
+    background-color: mistyrose;
+    text-align: center;
+    color:indianred;
+    font-size: 60px;
+    height:80px;
+    line-height: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 0px;
+    border-style:solid;
+    border-color:red;
+    border-radius: 8px;
+}
+.c6
+{
+    color:blueviolet;
+    text-align: center;
+    margin-top:inherit;
+    background-color:mistyrose;
+    margin-left: 90%;
+    padding:0px 0px 0px 0px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 8px;
+    
+}
+header
+{
+    background-color: red;
+    border-style: groove;
+    border-radius: 10px;
+}
+nav ul
+{
+    display:inline;
+    
+    
+}
+nav ul li
+{
+    display:inline;
+    margin-right:10px;
+}
+nav ul li h2
+{
+  display: inline;
+    
+}
+nav ul li h2 a
+{
+    text-decoration: none;
+}
+nav ul li h2 a:hover
+{
+    color:antiquewhite;
+    background-color: blueviolet;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 10px;
+    border-width:thin;
+}
+.back
+{
+    color:black;
+}
+.admindash2
+{
+    color:red;
+    background-color: mistyrose;
+    text-decoration: none;
+}
+.c3
+{
+    text-decoration: none;
+    color:blueviolet;
+    text-align: center;
+    font-size: 25px;
+}
+.c4
+{
+    font-size:25px;
+    color: mediumvioletred;
+}
+.c3:hover
+{
+    color:antiquewhite;
+    background-color: blueviolet;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 10px;
+    border-width:thin;
+}
+.c11
+{
+    color:black;
+}
+
+
+
+
+
+
+
+
